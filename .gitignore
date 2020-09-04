@@ -3,6 +3,8 @@ handlers.js
 resources.js
 commands
 events
+bot.js
+pnpm-lock.yaml
 
 # Created by https://www.gitignore.io/api/node
 # Edit at https://www.gitignore.io/?templates=node
